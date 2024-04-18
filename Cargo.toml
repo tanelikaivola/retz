@@ -1,6 +1,6 @@
 [package]
 name = "retz"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Taneli Kaivola <tanelikaivola@users.noreply.github.com>"]
 license-file = "LICENSE"
