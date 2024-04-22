@@ -13,7 +13,7 @@ rust-version = "1.70.0"
 [dependencies]
 chrono = "0.4.37"
 chrono-tz = "0.9.0"
-clap = { version = "~4.4.18", default-features = false, features = ["derive", "cargo", "error-context", "help", "std", "suggestions", "usage"] }
+clap = { version = "~4.5.4", default-features = false, features = ["derive", "cargo", "error-context", "help", "std", "suggestions", "usage"] }
 eyre = "0.6.12"
 
 [lints.rust]
